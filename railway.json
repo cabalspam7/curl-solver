@@ -1,0 +1,6 @@
+version: 1.0.0
+solver:
+  engine: curl_cffi
+  fingerprint: chrome124
+  timeout: 30
+  max_retries: 2

@@ -1,0 +1,6 @@
+Dockerfile
+requirements.txt
+app.py
+.git
+__pycache__
+*.pyc
